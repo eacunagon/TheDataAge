@@ -58,6 +58,8 @@ $(document).ready(function() {
             ponerFiltroGris($imagen);
         }, 300);
     });
+
+
 });
 
 function sacarFiltroGris($elemento) {

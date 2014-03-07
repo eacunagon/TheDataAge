@@ -10,9 +10,9 @@ root {
     display: block;
 }
 
-body {
+/*body {
     background-color: white;
-}
+}*/
 .contenedor {
     margin: 0 auto;
     width: 800px;
@@ -52,6 +52,7 @@ body {
 .contenedor a img {
     position: relative; /* esto nos permite mover al elemento */ 
     border: 0;
+    border-radius: 100%; 
 }
 
 .contenedor a img.gris {
@@ -86,4 +87,12 @@ body {
 }
 .turquesa {
     color: #008b8e;
+}
+
+.azul {
+   color: #4682b4;    
+}
+
+.blanco {
+    color : white;    
 }
