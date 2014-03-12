@@ -44,7 +44,7 @@ root {
 
 .contenedor a h3{
     font-family: Garamond, serif;
-    font-size:15px;
+    font-size:17px;
     font-style:italic;
     position: relative; /* esto nos permite mover al elemento */ 
 }
@@ -52,7 +52,7 @@ root {
 .contenedor a img {
     position: relative; /* esto nos permite mover al elemento */ 
     border: 0;
-    border-radius: 100%; 
+  
 }
 
 .contenedor a img.gris {
